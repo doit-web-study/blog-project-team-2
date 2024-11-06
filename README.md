@@ -7,6 +7,6 @@
 - RESTful API를 이용한 CRUD 구현 방법을 익히기 위함
 
 ### 사용 기술
-- Spring Boot 3.3.4
+- Spring Boot 3.5
 - Spring Data JPA
 - Springdoc OpenAPI  2.0.2
